@@ -66,5 +66,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{leonardobecerril.dev})
-- GitHub [@your-username](https://{github.com/G0rz})
+- Website [leonardobecerril.dev](https://leonardobecerril.dev)
+- GitHub [G0rz](https://github.com/G0rz)
