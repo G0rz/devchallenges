@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
 }
+
 .container-fluid {
     max-width: 100vw;
     max-height: 100vh;
@@ -14,8 +15,18 @@
     min-height: 100vh;
     display: flex;
     flex-wrap: wrap;
+}
+
+.align-items-center {
     align-items: center;
+}
+
+.justify-content-center {
     justify-content: center;
+}
+
+.justify-content-center {
+    justify-content: space-between;
 }
 
 .col-12 {
@@ -39,6 +50,13 @@
         flex-basis: 50%;
         max-width: 50%;
     }
+}
+
+.col-4 {
+    flex-basis: 33.3333%;
+    flex-grow: 0;
+    flex-shrink: 0;
+    max-width: 33.3333%;
 }
 
 .header {
