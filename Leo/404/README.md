@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://g0rz.github.io/devchallenges/Leo/1.-%20404-not-found-master/">
+    <a href="[https://g0rz.github.io/devchallenges/Leo/1.-%20404-not-found-master/](https://g0rz.github.io/devchallenges/Leo/404/)">
       Demo
     </a>
     <span> | </span>
