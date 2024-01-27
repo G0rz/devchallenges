@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://g0rz.github.io/devchallenges/Leo/1.-%20404-not-found-master/">
+    <a href="https://g0rz.github.io/devchallenges/Leo/404/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/G0rz/devchallenges/tree/main/Leo/1.-%20404-not-found-master">
+    <a href="https://github.com/G0rz/devchallenges/tree/main/Leo/404">
       Solution
     </a>
     <span> | </span>
@@ -41,10 +41,10 @@
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- This demo was made as a basic development practice only with HTML and CSS.
+- It is a simple practice that helps remember the importance of a simple and well-structured code.
+- Thanks to this practice, I improved the structure of my code, ensuring clean and minimal code.
+- As a tip, try to abstract the elements of a website before starting to make a mock up.
 
 ### Built With
 
@@ -52,7 +52,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 - [HTML](https://www.w3schools.com/html/)
 - [CSS](https://www.w3schools.com/css/)
-- 
+  
 ## Features
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
@@ -61,9 +61,25 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Acknowledgements
 
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
+-Step 1: Choose the type of display to work with.
+   With this we can rely on things that already exist in CSS and that facilitate the arrangement of our visual elements
 
+-Step 2: Abstract the visual elements.
 
+-Step 3: Choose the appropriate html elements to represent the visual element.
+
+-Step 4: Implement hierarchies (parent elements and child elements) and box theory
+
+-Step 5: Use the minimum number of CSS styles.
+   Analyze each visual element and define which CSS style can be used more than once, this way you can create classes and reduce the CSS code.
+   It also analyzes whether the styles of the parent elements can affect the child elements, sometimes going from the inside out helps reduce the code.
+
+-Step 6: Analyze and create Media Queries.
+   Take the time to clean up the code, removing repeated styles or performing one more abstraction step.
+   
+-Step 7: Publish the website and test it on different devices.
+
+This is in order to find visual details or strange behaviors of CSS styles.
 ## Contact
 
 - Website [leonardobecerril.dev](https://leonardobecerril.dev)
