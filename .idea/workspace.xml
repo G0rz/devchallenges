@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80698575-f8ad-47cd-a98c-a4f1aa7e45a2" name="Changes" comment="feat: new devChallenge" />
+    <list default="true" id="80698575-f8ad-47cd-a98c-a4f1aa7e45a2" name="Changes" comment="feat: new devChallenge Minimal Card">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +35,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/USER/WebstormProjects/devchallenges/Leo/Minimal Blog Card",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/USER/WebstormProjects/devchallenges",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -64,6 +68,7 @@
       <workItem from="1696025527807" duration="6653000" />
       <workItem from="1699285145081" duration="7529000" />
       <workItem from="1705962282023" duration="16113000" />
+      <workItem from="1706568721225" duration="129000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1696017203965</created>
@@ -111,7 +116,23 @@
       <option name="project" value="LOCAL" />
       <updated>1706314583863</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="feat: new devChallenge Minimal Card">
+      <option name="closed" value="true" />
+      <created>1706568763616</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1706568763616</updated>
+    </task>
+    <task id="LOCAL-00008" summary="feat: new devChallenge Minimal Card">
+      <option name="closed" value="true" />
+      <created>1706568769802</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1706568769802</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +145,7 @@
     <MESSAGE value="feat: add gitignore" />
     <MESSAGE value="." />
     <MESSAGE value="feat: new devChallenge" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: new devChallenge" />
+    <MESSAGE value="feat: new devChallenge Minimal Card" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: new devChallenge Minimal Card" />
   </component>
 </project>
