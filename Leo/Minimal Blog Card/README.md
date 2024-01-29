@@ -36,9 +36,6 @@
 
 ## Overview
 
-![g0rz github io_devchallenges_Leo_1 -%20404-not-found-master_](https://github.com/G0rz/devchallenges/assets/63682340/b1873a4a-0088-404e-bb18-14e402fdb0d3)
-![g0rz github io_devchallenges_Leo_1 -%20404-not-found-master_ (1)](https://github.com/G0rz/devchallenges/assets/63682340/33ddc084-1778-4e59-b456-589ce369583f)
-
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
