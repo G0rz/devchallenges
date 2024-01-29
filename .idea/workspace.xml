@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="80698575-f8ad-47cd-a98c-a4f1aa7e45a2" name="Changes" comment="feat: new devChallenge" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2W5I1yZlWcmG0GpIBXBKOO6HvX2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/USER/WebstormProjects/devchallenges/Leo/Minimal Blog Card",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\WebstormProjects\devchallenges\Leo\Minimal Blog Card" />
+      <recent name="C:\Users\USER\WebstormProjects\devchallenges\Leo\404" />
+      <recent name="C:\Users\USER\WebstormProjects\devchallenges\Leo\1.- 404-not-found-master\assets\images" />
+      <recent name="C:\Users\USER\WebstormProjects\devchallenges\Leo\1.- 404" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\WebstormProjects\devchallenges" />
+      <recent name="C:\Users\USER\WebstormProjects\devchallenges\Leo\1.- 404-not-found-master" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80698575-f8ad-47cd-a98c-a4f1aa7e45a2" name="Changes" comment="" />
+      <created>1696015802609</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696015802609</updated>
+      <workItem from="1696015805064" duration="1041000" />
+      <workItem from="1696025527807" duration="6653000" />
+      <workItem from="1699285145081" duration="7529000" />
+      <workItem from="1705962282023" duration="16113000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1696017203965</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696017203965</updated>
+    </task>
+    <task id="LOCAL-00002" summary="style: implement assets and advancement on styles">
+      <created>1696032251523</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696032251523</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fix: files order on repo">
+      <option name="closed" value="true" />
+      <created>1705966555196</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705966555196</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat: add gitignore">
+      <option name="closed" value="true" />
+      <created>1705966609610</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1705966609610</updated>
+    </task>
+    <task id="LOCAL-00005" summary=".">
+      <option name="closed" value="true" />
+      <created>1705966692753</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1705966692753</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feat: new devChallenge">
+      <option name="closed" value="true" />
+      <created>1706314583863</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1706314583863</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="style: implement assets and advancement on styles" />
+    <MESSAGE value="fix: files order on repo" />
+    <MESSAGE value="feat: add gitignore" />
+    <MESSAGE value="." />
+    <MESSAGE value="feat: new devChallenge" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: new devChallenge" />
+  </component>
+</project>
